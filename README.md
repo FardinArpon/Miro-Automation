@@ -23,3 +23,5 @@ gradle clean test
 ```
 
 **Enter a new email in the "information.json" file each time you run this project**
+**See the automation test project**
+![image](https://user-images.githubusercontent.com/87892957/173876766-29e3ac38-cd81-4535-9053-16713bf30281.png)
