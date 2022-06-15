@@ -1,6 +1,6 @@
 # Selenium Page object Model Project 
 ## Test Cases
-* Sign up with valid email
+* Sign up with valid email and credentials 
 * Attempt to sign up with invalid email
 * Attempt to sign up with empty email
 * Attempt to sign up with empty name
